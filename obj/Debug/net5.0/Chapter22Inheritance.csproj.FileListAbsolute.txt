@@ -1,0 +1,16 @@
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\Chapter22Inheritance.exe
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\Chapter22Inheritance.deps.json
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\Chapter22Inheritance.runtimeconfig.json
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\Chapter22Inheritance.runtimeconfig.dev.json
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\Chapter22Inheritance.dll
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\ref\Chapter22Inheritance.dll
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\bin\Debug\net5.0\Chapter22Inheritance.pdb
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.csproj.AssemblyReference.cache
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.AssemblyInfoInputs.cache
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.AssemblyInfo.cs
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.dll
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\ref\Chapter22Inheritance.dll
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.pdb
+C:\Users\rusha\workspace\csharp\Chapter22Inheritance\obj\Debug\net5.0\Chapter22Inheritance.genruntimeconfig.cache
