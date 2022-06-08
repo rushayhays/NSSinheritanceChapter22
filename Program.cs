@@ -58,6 +58,18 @@ namespace Garage
             {
                 Console.WriteLine($"{gv.CurrentTankPercentage}");
             }
+
+            /******************************************************/
+            /*Generics Intro */
+            GasStation shell = new GasStation{
+                Capacity = 2
+            };
+            BatteryStation ecoMart = new BatteryStation{
+                Capacity = 3
+            };
+            //Here we go
+            shell.Refuel(gasVehicles);
+            ecoMart.Refuel(electricVehicles);
         }
     }
 }
